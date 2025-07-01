@@ -20,7 +20,7 @@ const ProjectsPage: React.FC = () => {
                 className="group p-8 bg-white rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 
                           hover:scale-[1.02] border border-[#562c81]/20 mb-12">
                 <h3 className="text-2xl font-garamond font-bold mb-4 text-[#562c81] group-hover:text-[#6b4b9c] transition-colors tracking-tight">
-                  NeuroMove - Solving Parkinson's (2024-25 Flagship Project)
+                  NeuroMove: Solving Parkinson's (2024-25 Flagship Project)
                 </h3>
                 <p className="text-lg text-[#562c81] mb-6 tracking-wide font-roboto">
                   NeuronMove is a groundbreaking initiative and the first-ever project at the University of Toronto Engineering Society aimed at developing a solution for patients suffering from Parkinson's disease. This pioneering project seeks to address the debilitating tremors and movement initiation difficulties experienced by Parkinson's patients by leveraging neural implant data and cortex-level information.
