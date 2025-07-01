@@ -18,7 +18,7 @@ const HomePage: React.FC = () => (
       <div className="relative z-10 px-4">
         <div className="animate-fade-in-up">
           <h1 className="text-7xl md:text-8xl font-garamond font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-[#373683] via-[#5b2c81] to-[#373683] drop-shadow-[0_2px_2px_rgba(0,0,0,0.1)] tracking-tight">
-            NeurotechUofTa
+            NeurotechUofT
           </h1>
           <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto font-roboto font-light text-[#562c81] leading-relaxed drop-shadow-[0_1px_1px_rgba(0,0,0,0.1)] tracking-wide">
             Join the next generation of neurotechnology and neuroscience enthusiasts.
