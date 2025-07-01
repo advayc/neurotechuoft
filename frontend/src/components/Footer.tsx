@@ -82,7 +82,7 @@ const Footer: React.FC = () => {
         {/* Copyright */}
         <div className="mt-8 pt-8 border-t border-gray-200">
           <p className="text-center text-gray-600 font-roboto">
-            © 2025 NeurotechUofT All rights reserved.
+            © 2025 NeurotechUofT. All rights reserved.
           </p>
         </div>
       </div>
