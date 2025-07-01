@@ -108,7 +108,7 @@ const HomePage: React.FC = () => (
               className="group p-6 bg-white rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 
                           hover:scale-[1.02] border border-[#562c81]/20">
               <h3 className="text-xl font-garamond font-bold mb-4 text-[#562c81] group-hover:text-[#6b4b9c] transition-colors tracking-tight">
-                Project {project}
+                Projects {project}
               </h3>
               <p className="text-base text-[#562c81] mb-4 tracking-wide font-roboto">Project description placeholder.</p>
               <a href={`/projects/${project}`}
@@ -124,7 +124,7 @@ const HomePage: React.FC = () => (
         <div className="text-center mt-12">
           <a href="/projects"
             className="inline-flex items-center text-lg text-[#562c81] hover:text-[#6b4b9c] transition-colors font-roboto">
-            View All Projects
+            View all Projects
             <svg className="w-5 h-5 ml-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
             </svg>
