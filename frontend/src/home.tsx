@@ -20,7 +20,7 @@ const HomePage = () => {
           {/* Event Card */}
           <div className="bg-gray-800/50 backdrop-blur-sm rounded-lg border border-gray-700/50 p-6 hover:border-blue-500/50 transition-colors duration-200">
             <h3 className="text-lg font-space-grotesk font-semibold text-white">Workshop: Intro to BCI</h3>
-            <p className="mt-2 text-gray-300">Join us for an introduction to Brain-Computer Interfaces</p>
+            <p className="mt-2 text-gray-300">Join us for an introduction to BrainComputer Interfaces</p>
             <p className="mt-2 text-sm text-gray-400">Date: December 15, 2024</p>
           </div>
           {/* Add more event cards as needed */}
@@ -33,7 +33,7 @@ const HomePage = () => {
         <div className="mt-4 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {/* Current Project */}
           <div className="bg-gray-800/50 backdrop-blur-sm rounded-lg border border-gray-700/50 p-6 hover:border-blue-500/50 transition-colors duration-200">
-            <h3 className="text-lg font-space-grotesk font-semibold text-white">NeuroMove - Solving Parkinson's</h3>
+            <h3 className="text-lg font-space-grotesk font-semibold text-white">NeuroMove: Solving Parkinson's</h3>
             <p className="mt-2 text-gray-300">Our 2024-25 Flagship Project developing a solution for Parkinson's patients using neural implant data and cortex-level information.</p>
           </div>
 
